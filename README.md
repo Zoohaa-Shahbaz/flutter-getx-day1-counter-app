@@ -7,7 +7,7 @@ A simple Flutter counter app built with GetX to explore reactive state managemen
 - GetX (State Management)
 
 ## 📸 Screenshot
-![screenshot](assets/screenshot.png) <!-- Add your own screenshot image here -->
+![screenshot](https://github.com/Zoohaa-Shahbaz/flutter-getx-day1-counter-app/blob/main/ScreenShot.png?raw=true) <!-- Add your own screenshot image here -->
 
 ## 📦 Features
 - Reactive counter with `RxInt`
