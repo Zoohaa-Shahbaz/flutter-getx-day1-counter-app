@@ -1,16 +1,25 @@
-# getxep1
+# Flutter GetX Day 1 – Counter App 🚀
 
-A new Flutter project.
+A simple Flutter counter app built with GetX to explore reactive state management. This project demonstrates how to use `RxInt`, `Obx`, and `Get.put()` for clean and efficient state updates — no `setState()` needed!
 
-## Getting Started
+## 🧰 Tech Stack
+- Flutter 🐦
+- GetX (State Management)
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshot
+![screenshot](assets/screenshot.png) <!-- Add your own screenshot image here -->
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Features
+- Reactive counter with `RxInt`
+- Auto UI updates using `Obx()`
+- Pink-themed custom container
+- Custom reusable button widget
+- Floating action button for increment
+- Styled AppBar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/flutter-getx-day1-counter-app.git
+   cd flutter-getx-day1-counter-app
